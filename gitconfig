@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gre.schmitz@gmx.de
+	name = Gregor Schmitz
